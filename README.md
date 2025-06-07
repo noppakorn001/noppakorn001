@@ -36,12 +36,6 @@
 
 ---
 
-## ☕ Let's Connect
 
-- 🔭 Stay tuned for more of my personal projects
-- ✨ Hope you find something inspiring here
-- 📫 Feel free to reach out via GitHub or [add your contact method here if you want]
-
----
 
 
