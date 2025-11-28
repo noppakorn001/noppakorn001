@@ -1,41 +1,57 @@
-<h1 align="center">Hi there 👋 Welcome to my GitHub Profile</h1>
+# Hi there, I'm Noppakorn Wunnoy 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Computer+Science+Student;Robotics+Enthusiast;AI+%26+Deep+Learning;C%2B%2B+Developer)](https://git.io/typing-svg)
+
+I am a first-year **Computer Science student** at the **Faculty of Science**, passionate about bridging the gap between hardware and software. My primary focus lies in **Robotics**, **Artificial Intelligence**, and **Power Electronics**.
+
+Currently, I am exploring how autonomous systems can solve real-world agricultural problems.
 
 ---
 
-## 🧠 About Me
+### 🚀 Technical Skills
 
-- 🚀 This is where I store my **project files** and track my journey in **improving my coding skills**
-- 🧰 I use GitHub as a digital notebook to record my ideas, experiments, and code
-- 🌱 Currently learning about `.....`, , and more
-- 💡 I believe that *learning by doing* is the most effective way to grow
+**Languages:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
-
-## 🛠️ Tech Stack I Use
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+**Interests & Tools:**
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noppakorn001&show_icons=true&theme=tokyonight&hide=contribs" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=noppakorn001&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="165" />
-</p>
+#### 🤖 Cocoa Disease Surveillance Robot (In Progress)
+Developing an autonomous robot designed to assist in agricultural surveillance.
+- **Objective:** To detect and monitor diseases in cocoa trees using computer vision.
+- **Tech Stack:** ROS (Robot Operating System), Python, C++, Image Processing.
+- **Current Status:** Prototype development phase.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noppakorn001&layout=compact&theme=tokyonight" height="150" />
-</p>
+#### 🎲 Strategic Board Game Project
+Designing a competitive board game that integrates logical thinking and strategic planning.
+- **Focus:** Game theory mechanics and balanced rule systems.
 
 ---
 
+### 🌏 Experience & Activities
 
+* **ODOS Summer Camp 2025 (China):** Selected to participate in a technology exchange program at Huawei Technology, gaining exposure to global tech standards and innovation.
+* **English on the Go:** Actively improving communication skills for international collaboration.
 
+---
 
+### 📊 GitHub Stats
+
+![Noppakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [Your Email Here]
+* **LinkedIn:** [Link to your LinkedIn Profile]
