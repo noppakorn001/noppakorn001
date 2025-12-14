@@ -1,6 +1,6 @@
 # Hi there, I'm Noppakorn
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=1000&color=00F2FF&background=00000000&vCenter=true&multiline=false&width=435&lines=Computer+Science+Student;Robotics+Enthusiast;AI+%26+Deep+Learning;C%2B%2B+Developer&gGradient=9D00FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2196F3&width=600&lines=Computer+Science+Student;Robotics+Enthusiast;AI+%26+Deep+Learning;C%2B%2B+Developer)](https://git.io/typing-svg)
 
 ## EXPERIENCE_LOG
 
