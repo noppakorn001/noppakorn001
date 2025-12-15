@@ -11,5 +11,5 @@
 [2024] NECTEC @ NSTDA
        > Research Training Program
 
-[2022] THE PROMOTION OF ACADEMIC OLYMPIAD (POSN)
+[2022-2023] THE PROMOTION OF ACADEMIC OLYMPIAD (POSN)
        > Physics & Geography Academic Camp
