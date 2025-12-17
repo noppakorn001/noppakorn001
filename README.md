@@ -8,7 +8,7 @@
 [2025] HUAWEI TECHNOLOGIES, SHENZHEN
        > Intensive ICT Training Program at Headquarters
 
-[2024] NECTEC @ NSTDA
+[2024] NECTEC: National Electronics and Computer Technology Cente @ NSTDA
        > Research Training Program
 
 [2022-2023] THE PROMOTION OF ACADEMIC OLYMPIAD (POSN)
