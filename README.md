@@ -8,6 +8,7 @@
 
 [Now] Oracle University
        > Coming Soon...
+
 [2025] HUAWEI TECHNOLOGIES, SHENZHEN
        > Intensive ICT, Telecom, AI Training Program at Headquarters
 
