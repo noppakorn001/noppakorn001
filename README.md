@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2196F3&width=600&lines=Computer+Science+Student;AI+%26+Deep+Learning;C%2B%2B+Developer;Cansat-Rocket+Coding)](https://git.io/typing-svg)
 
+"Currently an undergraduate at Prince of Songkla University, Noppakorn Wunnoy is pursuing a Bachelor of Science in Computer Science. His technical focus lies at the nexus of Artificial Intelligence and Aerospace Technology, with a particular emphasis on developing real-time object detection models, nanosatellite systems, and integrated microcontroller architectures."
+
 ## EXPERIENCE_LOG
 
 ```text
