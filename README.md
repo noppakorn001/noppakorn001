@@ -4,6 +4,8 @@
 
 "Currently an undergraduate at Prince of Songkla University, Noppakorn Wunnoy is pursuing a Bachelor of Science in Computer Science. His technical focus lies at the nexus of Artificial Intelligence and Aerospace Technology, with a particular emphasis on developing real-time object detection models, nanosatellite systems, and integrated microcontroller architectures."
 
+My portfolio website : https://portfolio-web-rho-steel.vercel.app/
+
 ## EXPERIENCE_LOG
 
 ```text
