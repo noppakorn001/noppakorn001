@@ -1,16 +1,14 @@
-# Hi there, I'm Noppakorn
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoppakorn&count_bg=%232196F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+# Hi there, I'm Noppakorn <img src="https://komarev.com/ghpvc/?username=Noppakorn&color=2196f3&style=flat-square&label=PROFILE+VIEWS" alt="Noppakorn" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2196F3&width=600&lines=Computer+Science+Student;AI+%26+Deep+Learning;Newbie+Developer;Cansat-Rocket+Coding)](https://git.io/typing-svg)
 
 "Currently an undergraduate at Prince of Songkla University, Noppakorn Wunnoy is pursuing a Bachelor of Science in Computer Science. His technical focus lies at the nexus of Artificial Intelligence and Aerospace Technology, with a particular emphasis on developing real-time object detection models, nanosatellite systems, and integrated microcontroller architectures."
 
-My portfolio website : https://noplabs.vercel.app
+**My portfolio website :** [https://noplabs.vercel.app](https://noplabs.vercel.app)
 
 ## EXPERIENCE_LOG
 
 ```text
-
 [Now] Oracle University
        > Coming Soon...
 
@@ -22,7 +20,3 @@ My portfolio website : https://noplabs.vercel.app
 
 [2022-2023] THE PROMOTION OF ACADEMIC OLYMPIAD (POSN)
        > Physics & Geography Academic Camp
-
-
-
-
