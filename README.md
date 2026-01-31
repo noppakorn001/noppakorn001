@@ -1,4 +1,5 @@
 # Hi there, I'm Noppakorn
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoppakorn&count_bg=%232196F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2196F3&width=600&lines=Computer+Science+Student;AI+%26+Deep+Learning;Newbie+Developer;Cansat-Rocket+Coding)](https://git.io/typing-svg)
 
