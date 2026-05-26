@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>NOPPAKORN WUNNOY</h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDR5b3g0Ym95b3M0Mm95b3M0Mm95b3M0Mm95b3M0Mm95b3MmZXA9bXNfX2dpZnNfX3NlYXJjaCZjdD1n/hXJ1MWMzY7Af32UIAs/giphy.gif" width="200" alt="Pixel Art Cow">
+
+<h1 align="center">NOPPAKORN WUNNOY</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +29,7 @@ Currently an undergraduate at Prince of Songkla University, pursuing a Bachelor 
 # Tech Stack
 
 ### Artificial Intelligence & Machine Learning
-* **Core Frameworks:** Deep Learning development, Neural Network optimization, and Real-time computer vision models.
+* Deep Learning development, Neural Network optimization, and Real-time computer vision models.
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -36,7 +38,7 @@ Currently an undergraduate at Prince of Songkla University, pursuing a Bachelor 
 </p>
 
 ### Data Science & Analytics
-* **Data Processing:** Large dataset manipulation, scientific computing, numerical analysis, and relational databases.
+* Large dataset manipulation, scientific computing, numerical analysis, and relational databases.
 <p align="left">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -44,7 +46,7 @@ Currently an undergraduate at Prince of Songkla University, pursuing a Bachelor 
 </p>
 
 ### Microcontrollers & Embedded Systems
-* **Hardware Integration:** CanSat-Rocket coding, embedded software engineering, sensor integration, and real-time processing systems.
+* CanSat-Rocket coding, embedded software engineering, sensor integration, and real-time processing systems.
 <p align="left">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
