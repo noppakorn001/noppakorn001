@@ -1,6 +1,25 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDR5b3g0Ym95b3M0Mm95b3M0Mm95b3M0Mm95b3M0Mm95b3MmZXA9bXNfX2dpZnNfX3NlYXJjaCZjdD1n/hXJ1MWMzY7Af32UIAs/giphy.gif" width="200" alt="Pixel Art Cow">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⣀⡤⠴⠊⠉⣈⠛⢺⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣄⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⠻⣏⡑⠂⣀⡠⠝⠙⣾⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⡿⣿⣿⣿⣿⣷⣾⣦⡀⠀⠀⠀⣀⣀⣠⠤⠒⠛⠋⢀⠠⡐⠶⣿⡀⠤⠒⣦⣭⣘⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⡿⣿⡟⠛⠿⢿⣷⢿⣿⣿⣻⢿⣄⠐⠠⢈⠠⠠⠙⡦⣌⣷⡀⠨⡗⡿⣅⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⣿⠟⠁⠉⢱⢦⡐⣬⣿⠺⠛⠹⣿⣾⡏⣆⠄⢨⠀⣦⡐⠣⢉⠻⢧⠀⢳⠡⣿⢾⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⠟⢋⠀⠀⢈⣀⠀⠋⡋⠁⡁⢈⠔⠩⠀⣿⡞⠈⡑⠐⡀⢁⠒⢨⡐⣻⡉⣿⠀⣿⣷⣿⠤⢤⣀⢀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡴⠃⠊⠀⠀⠀⠸⣿⣦⠊⠀⠎⠰⢾⠂⠑⣨⡯⣁⠠⠐⢤⠐⠀⠄⢂⠹⠃⠀⣹⠅⡿⢿⢾⠀⢂⠀⠫⠋⣒⠂⠤⢤
+⠀⠀⠀⠀⠀⠀⠀⠳⠬⢉⡯⠒⠲⢶⠛⠣⡄⡀⢊⢁⡟⠀⣈⡀⠿⣷⠄⠐⢨⠀⠌⡬⠠⢸⠂⡩⣹⣁⣉⣩⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⢁⣹⣄⢊⢺⣇⠀⠼⣧⠤⢺⣢⡾⢡⠃⢸⡗⢂⡏⠀⣰⣿⣿⡿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⠤⣖⠚⣹⣧⣸⢟⢲⣦⣽⢷⣲⣽⣶⣾⣿⣷⣿⣦⡐⠻⣎⣻⣴⣿⣿⣷⡄⠙⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣀⣠⣤⡶⢞⣫⡽⣾⣟⠿⣎⡵⣿⣎⣚⡷⣿⣑⢚⡻⢿⣿⡿⣿⣿⣙⣿⣿⣶⣿⣿⣽⠛⠟⢀⣽⠰⢷⠂⠠⠀⠀⠀⠀⠀⠄⠐
+⢰⠖⢋⡋⠴⠼⣒⡏⠵⢚⡭⢞⡏⣻⡙⣿⣾⣿⣙⣕⣽⣾⡋⢦⢸⣿⣿⣽⣿⣿⢟⠇⠘⣿⠀⡐⠊⠉⢘⡆⣿⠀⠂⢀⣀⠀⠁⠀⠀⡀
+⢸⣤⣿⠾⢟⡟⠳⠔⡋⢇⠪⢅⡊⢧⣜⣻⡗⣾⣿⣿⣿⣿⣧⡜⢻⣿⠿⠛⢙⡼⠻⡆⣾⣭⡳⣐⣬⣥⣾⠁⣸⠗⢊⠁⠀⠌⠐⠠⠁⠀
+⢺⠯⣔⡧⣨⠖⣠⢍⡰⢡⣍⢶⣻⣿⣿⣿⡇⣽⣿⣿⡿⠿⢿⠄⣿⣇⣀⣶⠿⣞⣻⣭⣵⣿⣿⡿⠟⢻⡿⠚⢻⡈⢁⠌⠀⠀⠀⠀⠀⡀
+⢸⢶⠹⣳⠍⢶⢩⣘⠡⡚⢿⠾⠿⠿⣿⣿⢇⣿⣿⣿⣥⣶⣾⢆⣿⣿⣿⣿⣶⣿⡿⣿⣟⣿⣭⠷⢶⣺⣥⣤⣼⣷⣮⣴⡖⡖⣄⢢⢤⣁
+⢸⣚⠍⠑⡊⠠⠁⠒⠛⠋⠕⣮⣷⡾⠟⡏⣼⣿⣯⣽⣿⣿⡏⠀⣿⣿⣿⣿⣿⣿⠓⡋⠡⢂⣈⣩⣭⣶⣶⡿⣿⣿⣿⣿⡿⣿⠿⣛⢏⢲
+⢸⢃⡲⢯⡥⣰⣦⣬⣒⢂⡍⢀⢀⣀⠩⠟⠛⠛⠛⠻⠿⣿⠄⠪⣿⣟⠭⠟⠛⣥⣶⣶⣾⣿⣿⡿⣿⣿⣼⣷⡾⢿⡻⢛⡼⢓⡎⢕⡪⢑
+⢸⢙⢨⠒⡌⢠⠉⠹⠛⠓⠛⠛⠛⠃⠀⠄⠄⣠⣤⣦⣬⣉⣯⣶⠿⢖⠹⢢⢱⠠⢐⡨⢙⡩⢔⡰⢆⠩⢃⡑⢎⠡⣂⠕⡂⢇⡊⠒⠌⠁
+⠸⠈⢐⡂⠈⠁⢊⡐⠈⢅⡈⢅⡊⠴⠒⢂⡀⢀⡀⢚⠩⢉⠡⢀⠌⡠⢑⡈⠔⣊⠡⡈⠅⢂⡀⠂⢆⡑⢆⡡⢆⠑⣂⠅⠚⢀⠬⠁⠒⠈
+<img src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDR5b3g0Ym95b3M0Mm95b3M0Mm95b3M0Mm95b3M0Mm95b3MmZXA9bXNfX2dpZnNfX3NlYXJjaCZjdD1n/hXJ1MWMzY7Af32UIAs/giphy.gif" width="140" alt="Pixel Art Cow">
 
 <h1 align="center">NOPPAKORN WUNNOY</h1>
 
@@ -15,7 +34,7 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2196f3&height=60&section=header" width="100%">
 
 </div>
 
@@ -55,7 +74,7 @@ Currently an undergraduate at Prince of Songkla University, pursuing a Bachelor 
 </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2196f3&height=30&section=header" width="100%">
 </div>
 
 # Experience Log
