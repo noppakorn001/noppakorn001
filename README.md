@@ -31,7 +31,7 @@
 
 My technical focus lies at the nexus of **Artificial Intelligence** and **Aerospace Technology**, with a particular emphasis on developing real-time object detection models, nanosatellite systems, and integrated microcontroller architectures.
 
-* 🌐 **Portfolio Website:** [noplabs.vercel.app](https://noplabs.vercel.app)
+* 🌐 **Portfolio Website:** [coming soon](https://noplabs.vercel.app)
 
 ---
 
