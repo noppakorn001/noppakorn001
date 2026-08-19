@@ -244,19 +244,21 @@ Recognition across **innovation, Artificial Intelligence, cybersecurity, aerospa
 </h2>
 
 <div align="center">
-  <a href="https://github.com/Noppakorn">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Noppakorn&show_icons=true&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&icon_color=64B5F6&rank_icon=github&custom_title=GitHub%20Activity" alt="Noppakorn GitHub activity statistics" />
+  <a href="https://github.com/noppakorn001">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=noppakorn001&show_icons=true&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&icon_color=64B5F6&rank_icon=github&custom_title=GitHub%20Activity" alt="Noppakorn GitHub activity statistics" />
   </a>
-  <a href="https://github.com/Noppakorn?tab=repositories">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Noppakorn&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&custom_title=Primary%20Languages" alt="Noppakorn primary programming languages" />
+
+  <a href="https://github.com/noppakorn001?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noppakorn001&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&custom_title=Primary%20Languages" alt="Noppakorn primary programming languages" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Noppakorn?tab=followers">
-    <img src="https://img.shields.io/github/followers/Noppakorn?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0D1117&color=2196F3" alt="GitHub followers" />
+  <a href="https://github.com/noppakorn001?tab=followers">
+    <img src="https://img.shields.io/github/followers/noppakorn001?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0D1117&color=2196F3" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/Noppakorn?tab=repositories">
+
+  <a href="https://github.com/noppakorn001?tab=repositories">
     <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-VIEW%20ALL-2196F3?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View public repositories" />
   </a>
 </p>
