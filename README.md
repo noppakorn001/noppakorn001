@@ -21,11 +21,11 @@
 
 <br /><br />
 
-<a href="#mission-profile">Mission Profile</a> •
-<a href="#strategic-focus">Strategic Focus</a> •
-<a href="#technology-stack">Technology Stack</a> •
-<a href="#experience--training">Experience</a> •
-<a href="#honors--distinctions">Honors</a> •
+<a href="#mission-profile">Mission Profile</a> &nbsp;|&nbsp;
+<a href="#strategic-focus">Strategic Focus</a> &nbsp;|&nbsp;
+<a href="#technology-stack">Technology Stack</a> &nbsp;|&nbsp;
+<a href="#experience--training">Experience</a> &nbsp;|&nbsp;
+<a href="#honors--distinctions">Honors</a> &nbsp;|&nbsp;
 <a href="#github-analytics">Analytics</a>
 
 </div>
@@ -34,7 +34,10 @@
 
 <a id="mission-profile"></a>
 
-## `01 // MISSION PROFILE`
+<h2>
+  <img src="https://api.iconify.design/lucide/crosshair.svg?color=%232196F3" width="25" height="25" alt="Mission profile icon" align="center" />
+  <code>01 // MISSION PROFILE</code>
+</h2>
 
 > **Building intelligent systems for missions where precision, efficiency, and reliability are non-negotiable.**
 
@@ -63,26 +66,29 @@ My objective is to develop technology that moves beyond laboratory demonstration
 
 <a id="strategic-focus"></a>
 
-## `02 // STRATEGIC FOCUS`
+<h2>
+  <img src="https://api.iconify.design/lucide/radar.svg?color=%232196F3" width="25" height="25" alt="Strategic focus icon" align="center" />
+  <code>02 // STRATEGIC FOCUS</code>
+</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Artificial Intelligence</h3>
+      <h3><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%232196F3" width="21" height="21" alt="Artificial Intelligence icon" align="center" /> Artificial Intelligence</h3>
       <p>Deep learning, real-time object detection, neural-network optimization, computer vision, and efficient model deployment.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Trustworthy AI & Research</h3>
+      <h3><img src="https://api.iconify.design/lucide/shield-check.svg?color=%232196F3" width="21" height="21" alt="Trustworthy AI icon" align="center" /> Trustworthy AI &amp; Research</h3>
       <p>Model evaluation, reliability, responsible deployment, low-parameter model development, and evidence-driven experimentation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔌 Embedded & Real-Time Systems</h3>
+      <h3><img src="https://api.iconify.design/lucide/cpu.svg?color=%232196F3" width="21" height="21" alt="Embedded systems icon" align="center" /> Embedded &amp; Real-Time Systems</h3>
       <p>Microcontroller programming, sensor integration, embedded software engineering, telemetry, and constrained processing systems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Aerospace Technology</h3>
+      <h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%232196F3" width="21" height="21" alt="Aerospace technology icon" align="center" /> Aerospace Technology</h3>
       <p>CanSat–Rocket mission systems, flight-oriented software, nanosatellite concepts, and intelligent aerospace experimentation.</p>
     </td>
   </tr>
@@ -92,7 +98,10 @@ My objective is to develop technology that moves beyond laboratory demonstration
 
 <a id="technology-stack"></a>
 
-## `03 // TECHNOLOGY STACK`
+<h2>
+  <img src="https://api.iconify.design/lucide/blocks.svg?color=%232196F3" width="25" height="25" alt="Technology stack icon" align="center" />
+  <code>03 // TECHNOLOGY STACK</code>
+</h2>
 
 ### Artificial Intelligence & Computer Vision
 
@@ -134,7 +143,10 @@ My objective is to develop technology that moves beyond laboratory demonstration
 
 <a id="experience--training"></a>
 
-## `04 // EXPERIENCE & TRAINING`
+<h2>
+  <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%232196F3" width="25" height="25" alt="Experience and training icon" align="center" />
+  <code>04 // EXPERIENCE &amp; TRAINING</code>
+</h2>
 
 | Period | Institution / Program | Role & Development Focus |
 |:--|:--|:--|
@@ -147,7 +159,10 @@ My objective is to develop technology that moves beyond laboratory demonstration
 
 <a id="honors--distinctions"></a>
 
-## `05 // HONORS & DISTINCTIONS`
+<h2>
+  <img src="https://api.iconify.design/lucide/trophy.svg?color=%232196F3" width="25" height="25" alt="Honors and distinctions icon" align="center" />
+  <code>05 // HONORS &amp; DISTINCTIONS</code>
+</h2>
 
 Recognition across **innovation, Artificial Intelligence, cybersecurity, aerospace engineering, science, mathematics, entrepreneurship, and research** at international, national, and regional levels.
 
@@ -223,12 +238,28 @@ Recognition across **innovation, Artificial Intelligence, cybersecurity, aerospa
 
 <a id="github-analytics"></a>
 
-## `06 // GITHUB ANALYTICS`
+<h2>
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%232196F3" width="25" height="25" alt="GitHub analytics icon" align="center" />
+  <code>06 // GITHUB ANALYTICS</code>
+</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noppakorn&show_icons=true&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&icon_color=64B5F6&rank_icon=github" alt="Noppakorn GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noppakorn&layout=compact&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3" alt="Noppakorn most-used GitHub languages" />
+  <a href="https://github.com/Noppakorn">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Noppakorn&show_icons=true&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&icon_color=64B5F6&rank_icon=github&custom_title=GitHub%20Activity" alt="Noppakorn GitHub activity statistics" />
+  </a>
+  <a href="https://github.com/Noppakorn?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Noppakorn&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=2196F3&text_color=E6EDF3&custom_title=Primary%20Languages" alt="Noppakorn primary programming languages" />
+  </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/Noppakorn?tab=followers">
+    <img src="https://img.shields.io/github/followers/Noppakorn?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0D1117&color=2196F3" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Noppakorn?tab=repositories">
+    <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-VIEW%20ALL-2196F3?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View public repositories" />
+  </a>
+</p>
 
 ---
 
