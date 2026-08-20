@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README
   Noppakorn Wunnoy
-  Last updated: 2026-08-19
+  Last updated: 2026-08-20
 -->
 
 <div align="center">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Prince%20of%20Songkla%20University-Computer%20Science-2196F3?style=flat-square" alt="Prince of Songkla University Computer Science" />
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Embedded%20%7C%20Aerospace-0A1F44?style=flat-square" alt="AI Embedded Aerospace focus" />
 <img src="https://img.shields.io/badge/Location-Thailand-1A1A1A?style=flat-square" alt="Thailand" />
-<img src="https://komarev.com/ghpvc/?username=Noppakorn&color=2196f3&style=flat-square&label=MISSION_LOG_VIEWS" alt="Noppakorn profile views" />
+<img src="https://komarev.com/ghpvc/?username=noppakorn001&color=2196f3&style=flat-square&label=MISSION_LOG_VIEWS" alt="Noppakorn profile views" />
 
 <br /><br />
 
@@ -57,8 +57,8 @@ I am a Computer Science undergraduate whose work lies at the intersection of **A
 My objective is to develop technology that moves beyond laboratory demonstrations—systems designed to operate under real constraints, make reliable decisions, and deliver measurable impact.
 
 <div align="center">
-  <a href="https://noplabs.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-NOPLABS%20%7C%20IN%20DEVELOPMENT-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="NopLabs portfolio website" />
+  <a href="https://myportfoliowebsite.noppakornwunnoy01.workers.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-2196F3?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Noppakorn Wunnoy portfolio website" />
   </a>
 </div>
 
@@ -273,6 +273,6 @@ Recognition across **innovation, Artificial Intelligence, cybersecurity, aerospa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2196F3,55:0A1F44,100:05070D" width="100%" alt="Profile footer" />
 
-<code>LAST_SYNC: 2026-08-19 // SYSTEM_STATUS: ACTIVE</code>
+<code>LAST_SYNC: 2026-08-20 // SYSTEM_STATUS: ACTIVE</code>
 
 </div>
